@@ -1,0 +1,8 @@
+D:\Kumaran Systems\.NET\MockHandsOn\MockHandsOn\bin\Debug\MockHandsOn.exe.config
+D:\Kumaran Systems\.NET\MockHandsOn\MockHandsOn\bin\Debug\MockHandsOn.exe
+D:\Kumaran Systems\.NET\MockHandsOn\MockHandsOn\bin\Debug\MockHandsOn.pdb
+D:\Kumaran Systems\.NET\MockHandsOn\MockHandsOn\obj\Debug\MockHandsOn.csproj.AssemblyReference.cache
+D:\Kumaran Systems\.NET\MockHandsOn\MockHandsOn\obj\Debug\MockHandsOn.csproj.SuggestedBindingRedirects.cache
+D:\Kumaran Systems\.NET\MockHandsOn\MockHandsOn\obj\Debug\MockHandsOn.csproj.CoreCompileInputs.cache
+D:\Kumaran Systems\.NET\MockHandsOn\MockHandsOn\obj\Debug\MockHandsOn.exe
+D:\Kumaran Systems\.NET\MockHandsOn\MockHandsOn\obj\Debug\MockHandsOn.pdb
